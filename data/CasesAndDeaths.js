@@ -1,5 +1,6 @@
 var casesAndDeaths =
 {"Total":[
+  {"date":"01/10/2014","cases":"7492","deaths":"3439"},
 {"date":"28/09/2014","cases":"7192","deaths":"3286"},
 {"date":"25/09/2014","cases":"6808","deaths":"3159"},
 {"date":"23/09/2014","cases":"6574","deaths":"3091"},
